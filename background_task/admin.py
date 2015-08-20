@@ -1,5 +1,5 @@
 from django.contrib import admin
-from models_completed import CompletedTask
+from .models_completed import CompletedTask
 
 from background_task.models import Task
 
